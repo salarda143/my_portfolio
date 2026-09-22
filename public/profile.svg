@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="400" viewBox="0 0 400 400" fill="none">
+  <rect width="400" height="400" fill="#18181b"/>
+  <defs>
+    <linearGradient id="grad" x1="0" y1="0" x2="400" y2="400">
+      <stop offset="0%" stop-color="#27272a"/>
+      <stop offset="100%" stop-color="#09090b"/>
+    </linearGradient>
+  </defs>
+  <rect width="400" height="400" fill="url(#grad)"/>
+  <circle cx="200" cy="160" r="72" fill="#3f3f46"/>
+  <ellipse cx="200" cy="340" rx="110" ry="90" fill="#3f3f46"/>
+  <text x="200" y="380" text-anchor="middle" fill="#71717a" font-family="Arial, sans-serif" font-size="28" font-weight="600">PS</text>
+</svg>
