@@ -208,6 +208,19 @@ export const projects: Project[] = [
     images: ["/project/barmm/1.jpg"],
   },
   {
+    title: "IsdApp",
+    description: "Fish Identification Mobile application",
+    images: [
+      "/project/IsdApp/1.png",
+      "/project/IsdApp/2.png",
+      "/project/IsdApp/3.png",
+      "/project/IsdApp/4.png",
+      "/project/IsdApp/5.png",
+      "/project/IsdApp/6.png",
+      "/project/IsdApp/7.png",
+    ],
+  },
+  {
     title: "Voting System",
     description: "Secure online voting management system",
     images: [
@@ -218,6 +231,17 @@ export const projects: Project[] = [
       "/project/voting_system/5.jpg",
       "/project/voting_system/6.jpg",
       "/project/voting_system/7.jpg",
+    ],
+  },
+  {
+    title: "IsdApp Admin",
+    description: "Administrative web application",
+    images: [
+      "/project/IsdApp_Admin/1.png",
+      "/project/IsdApp_Admin/2.png",
+      "/project/IsdApp_Admin/3.png",
+      "/project/IsdApp_Admin/4.png",
+      "/project/IsdApp_Admin/5.png",
     ],
   },
   {
