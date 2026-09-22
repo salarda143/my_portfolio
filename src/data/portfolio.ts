@@ -37,9 +37,20 @@ export const experience: TimelineEntry[] = [
     year: "2025",
   },
   {
+    title: "Developer - SciMATH FUED",
+    subtitle: "Developed a science and math learning platform",
+    year: "2025",
+  },
+  {
     title: "Project Lead Developer",
     subtitle: "Bohol Island State University (BISU)",
     year: "2024 - 2025",
+  },
+  {
+    title: "Junior Software Developer",
+    subtitle:
+      "Assisted with backend logic using stored procedures, React Native mobile development, React.js web interfaces, system testing, and debugging.",
+    year: "October 2024 - November 2024",
   },
   {
     title: "First System Application Build",

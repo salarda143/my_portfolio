@@ -17,7 +17,7 @@ export default function TimelineItem({
     <div className="relative flex gap-4 pb-8 last:pb-0">
       {!isLast && (
         <span
-          className="absolute left-[11px] top-6 h-[calc(100%-8px)] w-px bg-zinc-200/70 dark:bg-white/10"
+          className="absolute left-2.75 top-6 h-[calc(100%-8px)] w-px bg-zinc-200/70 dark:bg-white/10"
           aria-hidden
         />
       )}
@@ -29,7 +29,9 @@ export default function TimelineItem({
           <p className="font-medium text-zinc-900 dark:text-white">{title}</p>
           <p className="text-sm text-zinc-500 dark:text-zinc-400">{subtitle}</p>
         </div>
-        <span className="shrink-0 text-sm text-zinc-500 dark:text-zinc-400">{year}</span>
+        <span className="shrink-0 text-sm text-zinc-500 dark:text-zinc-400">
+          {year}
+        </span>
       </div>
     </div>
   );
